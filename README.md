@@ -43,10 +43,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" 
          style="height: 180px; width: auto; max-width: 420px; vertical-align: middle;" />
   </a>
-  <a href="https://solved.ac/________" style="display: inline-block;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0" 
-         style="height: 180px; vertical-align: middle;" />
-  </a>
 </p>
 
 
@@ -58,7 +54,11 @@
     <img src="https://velog-readme-stats.vercel.app/api?name=jimin_03" />
   </a>
 </p>​
-
+<p align="center">
+  <a href="https://solved.ac/________">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0" />
+  </a>
+</p>
 ---
 
 ## Projects
