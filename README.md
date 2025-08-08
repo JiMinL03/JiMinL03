@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://velog.io/@YOUR_VELOG_ID">
-    <img src="https://velog-readme-stats.vercel.app/api?name=YOUR_VELOG_ID" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=jimin_03" />
   </a>
 </p>
 
