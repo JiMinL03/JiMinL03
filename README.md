@@ -1,11 +1,32 @@
-<!-- 깔끔한 캡슐형 헤더 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:00C6FF&height=200&section=header&text=Hi%20There!%20I'm%20Jimin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
----
+## Tech Stack
 
-## 📊 GitHub Stats
+<p align="center">
+  <!-- 백엔드 -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+  <!-- 프레임워크 & 라이브러리 -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+
+  <!-- 데이터베이스 -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+  <!-- 디자인 & 툴 -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,32 +37,12 @@
   </a>
 </p>
 
----
-
-## 📝 Latest Blog Posts (Velog)
+## Latest Blog Posts (Velog)
 
 <p align="center">
   <a href="https://velog.io/@YOUR_VELOG_ID">
     <img src="https://velog-readme-stats.vercel.app/api?name=jimin_03" />
   </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <!-- 프로그래밍 언어 -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  
-  <!-- 프레임워크 & 라이브러리 -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  
-  <!-- 데이터베이스 -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ---
