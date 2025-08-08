@@ -1,4 +1,4 @@
-<table align="center" cellspacing="10">
+<table align="center" cellspacing="10" style="max-width: 420px; width: 100%;">
   <tr>
     <td align="center" valign="middle" style="font-weight:bold; font-size:16px; white-space: nowrap;">프로그래밍</td>
     <td>
@@ -8,7 +8,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <td align="center" valign="middle" style="font-weight:bold; font-size:16px; white-space: nowrap;">프레임워크 & 라이브러리</td>
     <td>
@@ -16,7 +15,6 @@
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <td align="center" valign="middle" style="font-weight:bold; font-size:16px; white-space: nowrap;">데이터베이스</td>
     <td>
@@ -24,7 +22,6 @@
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <td align="center" valign="middle" style="font-weight:bold; font-size:16px; white-space: nowrap;">디자인 & 툴</td>
     <td>
@@ -39,13 +36,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JiMinL03&show_icons=true&theme=tokyonight" style="height: 180px; width: 420px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JiMinL03&show_icons=true&theme=tokyonight" style="height: 180px; width: auto; max-width: 420px;" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" style="height: 180px; width: 420px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" style="height: 180px; width: auto; max-width: 420px;" />
   </a>
 </p>
-
 
 
 ## Latest Blog Posts (Velog)
