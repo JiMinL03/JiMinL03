@@ -47,10 +47,10 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 <details>
-  <summary>💡 Click to see more!</summary>
+  <summary>Click to see more!</summary>
 
   ### 🚀 Project 1
   - 설명: 간단한 프로젝트 설명
@@ -63,8 +63,3 @@
 </details>
 
 ---
-
-<!-- 깔끔한 푸터 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:00C6FF&height=100&section=footer"/>
-</p>
