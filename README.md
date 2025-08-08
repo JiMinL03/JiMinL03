@@ -47,7 +47,7 @@
 ## Latest Blog Posts (Velog)
 
 <p align="center">
-  <a href="https://velog.io/@YOUR_VELOG_ID">
+  <a href="https://velog.io/@jimin_03">
     <img src="https://velog-readme-stats.vercel.app/api?name=jimin_03" />
   </a>
 </p>
