@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JiMinL03&show_icons=true&theme=tokyonight" height="180px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" height="200px"/>
   </a>
 </p>
 
