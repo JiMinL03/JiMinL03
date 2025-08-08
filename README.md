@@ -52,6 +52,8 @@
   </a>
 </p>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0)](https://solved.ac/________)​
+
 ---
 
 ## Projects
