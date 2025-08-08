@@ -35,16 +35,20 @@
 </table>
 <br><br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JiMinL03&show_icons=true&theme=tokyonight" style="height: 180px; width: auto; max-width: 420px;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JiMinL03&show_icons=true&theme=tokyonight" 
+         style="height: 180px; width: auto; max-width: 420px; vertical-align: middle;" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" style="height: 180px; width: auto; max-width: 420px;" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" 
+         style="height: 180px; width: auto; max-width: 420px; vertical-align: middle;" />
   </a>
-  <a href="https://solved.ac/________">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0" />
+  <a href="https://solved.ac/________" style="display: inline-block;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0" 
+         style="height: 180px; vertical-align: middle;" />
   </a>
 </p>
+
 
 <br><br>
 ## Latest Blog Posts (Velog)
