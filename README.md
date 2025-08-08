@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:00C6FF&height=200&section=header&text=Hi%20There!%20I'm%20Jimin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
-## Tech Stack
-
 <p align="center">
   <!-- 백엔드 -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -24,9 +22,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
-
-## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
