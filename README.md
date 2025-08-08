@@ -1,6 +1,6 @@
 <!-- 깔끔한 캡슐형 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20YOUR_NAME%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20Jimin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <!-- 타이핑 애니메이션 -->
