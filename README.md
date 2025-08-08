@@ -41,6 +41,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMinL03&layout=compact&theme=tokyonight" style="height: 180px; width: auto; max-width: 420px;" />
   </a>
+  <a href="https://solved.ac/________">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0" />
+  </a>
 </p>
 
 <br><br>
@@ -49,12 +52,6 @@
 <p align="center">
   <a href="https://velog.io/@jimin_03">
     <img src="https://velog-readme-stats.vercel.app/api?name=jimin_03" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://solved.ac/________">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlalswwkd0" />
   </a>
 </p>​
 
