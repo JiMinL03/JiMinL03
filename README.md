@@ -1,13 +1,6 @@
 <!-- 깔끔한 캡슐형 헤더 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20There!%20I'm%20Jimin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" />
-</p>
-
-<!-- 타이핑 애니메이션 -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_ID">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Let's+build+something+awesome!">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:00C6FF&height=200&section=header&text=Hi%20There!%20I'm%20Jimin%20👋&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </p>
 
 ---
@@ -72,5 +65,5 @@
 
 <!-- 깔끔한 푸터 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A74DA,100:00C6FF&height=100&section=footer"/>
 </p>
