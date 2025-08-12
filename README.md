@@ -7,7 +7,6 @@
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLOv8-7B68EE?style=flat-square&logo=opencv&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -15,6 +14,7 @@
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLOv8-7B68EE?style=flat-square&logo=opencv&logoColor=white" />
     </td>
   </tr>
   <tr>
